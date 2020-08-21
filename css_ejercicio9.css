@@ -1,11 +1,16 @@
 #galeria {
     
-    max-width: 650px;
+    max-width: 800px;
   }
   
   #galeria img {
-    float: left;
+    float: let;
     margin: 1em;
     padding: .5em;
     border: 1px solid #CCC;
   }
+
+  img{
+    width: 152px;
+    height: 152px;
+  } 
